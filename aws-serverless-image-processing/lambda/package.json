@@ -1,0 +1,10 @@
+{
+  "name": "lambda-image-resizer",
+  "version": "1.0.0",
+  "description": "Resize image with Jimp on AWS Lambda",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1616.0",
+    "jimp": "^0.22.10"
+  }
+}
