@@ -34,7 +34,7 @@ This project demonstrates a **serverless image processing pipeline** using AWS L
 
 ## 🖼️ Architecture Diagram
 
-![Architecture Diagram](./architecture-diagram.png)
+![Architecture Diagram](aws-serverless-image-processing/architecture-diagram.png)
 
 ---
 
